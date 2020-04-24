@@ -1,13 +1,13 @@
 # COVID-jobs
 Final project for a Jobs database featuring jobs with the keywords 'COVID','corona' and 'temporary' jobs from Indeed and Glassdoor.
 
-INFO 6210: 
+#INFO 6210: 
 
 Jobs Database: COVID/ Corona/ Temporary Jobs Database
 
 Title : Jobs Database 
 
-Author: Karan Soni 
+Author: Karan Soni / soni.ka@husky.neu.edu
 
 
 NUID: 001448528
@@ -18,14 +18,14 @@ In this project we will contribute to building a jobs database using mysql and p
 
 
 
-Project Abstract:
+#Project Abstract:
 
 The growing spread of coronavirus has left many Americans in fear of losing their jobs, as businesses continue to shutter and authorities tell people to stay at home. Unemployment claims multiplied, reaching an all-time high of over 3.3 million in mid-March, with analysts expecting that number to climb. Conversely, a surge of companies – not just in the health care industry – are looking to hire additional employees to meet increased demands onset by the virus.
 Data Source: Our objective was to generate data from Job dashboards like Glassdoor and Indeed, as these webistes freely do not allow web scrapping, we used an automated API to fetch data from them.
 
 
 
-File descriptions:
+#File descriptions:
 
 1) COVID-JOBS_DB :
     Jupyter notebook containing the main code and explanation for the INFO 6210 project, creating a Jobs-Database for workers looking for COVID jobs. 
@@ -37,12 +37,12 @@ File descriptions:
     Jupyter notebook containing the code and explanation for a tutorial on how to use API to gather twitter data using the tags - #covidjob, #coronavirusjobs and #temporaryjobs. 
     
     
- Report: 
+ #Report: 
  
  Reports are indiviually included in the Jupyter notebooks of the three files. 
  
  
- List of tasks permormed as per DB project portfolio guidelies (https://github.com/nikbearbrown/INFO_6210/blob/master/Project/Project_Portfolio.ipynb):
+ #List of tasks permormed as per DB project portfolio guidelies (https://github.com/nikbearbrown/INFO_6210/blob/master/Project/Project_Portfolio.ipynb):
  
 1) Build the list of companies in some domain - webscrapping.ipnyb 
 2) Web scrape the data for each of the companies for job details - COVID-Jobs_db.ipynb
@@ -60,7 +60,7 @@ File descriptions:
 
  
  
- Conclusion: 
+ #Conclusion: 
  
  Based on the concepts learned in the INFO 6210 DMDD coursework, we have implemented- 
  a) Web scrapping, 
@@ -72,7 +72,7 @@ File descriptions:
  
  
  
- Contribution: 
+ #Contribution: 
  
  
  Own Work: 70%
@@ -82,7 +82,7 @@ File descriptions:
  Examples by Professor and TAs: 10%
  
  
- Citiations:
+#Citiations:
  
  
 https://github.com/nikbearbrown/INFO_6210/tree/master/Project/Jobs_DB_Project
@@ -103,7 +103,7 @@ https://github.com/INFO6210/Assignment-3/blob/master/DericAnjaSoniKaran_INFO6210
 
 
 
-License:
+#License:
 
 
 Copyright 2020 Karan Soni Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
