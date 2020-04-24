@@ -53,9 +53,9 @@ File descriptions:
 7) Clean and integrate data- COVID-Jobs_db.ipynb
 8) Build an ER diagram and model the db- COVID-Jobs_db.ipynb
 9) Build the dB schema and insert the data- schema.ipynb
-10) Generate use cases.
-11) Optimize the database.
-12) Properly document that database
+10) Generate use cases- use_cases.ipynb
+11) Optimize the database- COVID-Jobs_db.ipynb
+12) Properly document that database- COVID-Jobs_db.ipynb
 13) Professionalism (Licensing, code style, file naming, README. Etc.) - https://github.com/karansoni2/COVID-jobs
 
  
@@ -86,13 +86,21 @@ File descriptions:
  
  
 https://github.com/nikbearbrown/INFO_6210/tree/master/Project/Jobs_DB_Project
+
 https://www.usatoday.com/story/money/business/2020/04/01/coronavirus-hiring-cvs-walmart-zoom-among-companies-seeking-workers/5097510002/
+
 https://apify.com/alexey/glassdoor-jobs-scraper
+
 https://apify.com/hynekhruska/indeed-scraper
+
 https://github.com/nikbearbrown/INFO_6210/blob/master/Project/Project_Portfolio.ipynb
+
 https://github.com/INFO6210/assignment1/blob/master/DericAnjaSoniKaran_INFO6210_Assignment1.ipynb
+
 https://github.com/INFO6210/Assignment-2
+
 https://github.com/INFO6210/Assignment-3/blob/master/DericAnjaSoniKaran_INFO6210_Assignment3.ipynb
+
 
 
 License:
