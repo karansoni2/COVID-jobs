@@ -5,7 +5,7 @@ Final project for a Jobs database featuring jobs with the keywords 'COVID','coro
 
 Jobs Database: COVID/ Corona/ Temporary Jobs Database
 
-Title : Jobs Database 
+Title : Jobs Database (Individual project)
 
 Author: Karan Soni / soni.ka@husky.neu.edu
 
